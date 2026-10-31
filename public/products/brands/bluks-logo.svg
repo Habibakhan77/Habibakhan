@@ -1,0 +1,10 @@
+<svg width="1200" height="600" viewBox="0 0 1200 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="600" rx="80" fill="#F8FAFC"/>
+  <rect x="70" y="70" width="1060" height="460" rx="68" fill="white" stroke="#0EA5E9" stroke-width="10"/>
+  <rect x="250" y="180" width="340" height="240" rx="44" fill="#0EA5E9"/>
+  <path d="M310 260H530" stroke="#F8FAFC" stroke-width="24" stroke-linecap="round"/>
+  <path d="M310 320H480" stroke="#F8FAFC" stroke-width="24" stroke-linecap="round"/>
+  <path d="M650 240C700 220 760 220 810 240" stroke="#0F172A" stroke-width="24" stroke-linecap="round"/>
+  <path d="M650 310C710 290 770 290 830 310" stroke="#0F172A" stroke-width="24" stroke-linecap="round"/>
+  <text x="640" y="390" fill="#0F172A" font-family="Arial, Helvetica, sans-serif" font-size="86" font-weight="700" letter-spacing="4">BLUK'S</text>
+</svg>

@@ -1,0 +1,14 @@
+<svg width="1200" height="600" viewBox="0 0 1200 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="600" rx="80" fill="#F3F7FF"/>
+  <rect x="80" y="80" width="1040" height="440" rx="60" fill="white" stroke="#0F172A" stroke-width="12"/>
+  <circle cx="360" cy="300" r="140" fill="#2563EB"/>
+  <path d="M298 242C298 207.817 325.817 180 360 180C394.183 180 422 207.817 422 242V256C422 290.183 394.183 318 360 318C325.817 318 298 290.183 298 256V242Z" fill="#F8FAFC"/>
+  <path d="M302 248C302 214.863 328.863 188 362 188C395.137 188 422 214.863 422 248V260C422 293.137 395.137 320 362 320C328.863 320 302 293.137 302 260V248Z" fill="#2563EB"/>
+  <path d="M322 250C322 223.49 343.49 202 370 202C396.51 202 418 223.49 418 250V266C418 292.51 396.51 314 370 314C343.49 314 322 292.51 322 266V250Z" fill="#F8FAFC"/>
+  <path d="M337 248C337 232.536 349.536 220 365 220H375C390.464 220 403 232.536 403 248V264C403 279.464 390.464 292 375 292H365C349.536 292 337 279.464 337 264V248Z" fill="#2563EB"/>
+  <path d="M422 270H520C560.183 270 592 301.817 592 342V364" stroke="#0F172A" stroke-width="24" stroke-linecap="round"/>
+  <path d="M592 364H690C730.183 364 762 395.817 762 436V458" stroke="#0F172A" stroke-width="24" stroke-linecap="round"/>
+  <path d="M760 258L835 322L760 386" stroke="#2563EB" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="840" y="320" fill="#0F172A" font-family="Arial, Helvetica, sans-serif" font-size="92" font-weight="700" letter-spacing="4">INTERLINK</text>
+  <text x="840" y="375" fill="#2563EB" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700" letter-spacing="8">AUDIO • CHARGING • ACCESSORIES</text>
+</svg>

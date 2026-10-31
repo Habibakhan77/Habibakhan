@@ -1,0 +1,10 @@
+<svg width="1200" height="600" viewBox="0 0 1200 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="600" rx="80" fill="#0F172A"/>
+  <rect x="70" y="70" width="1060" height="460" rx="68" fill="#111827" stroke="#FBBF24" stroke-width="12"/>
+  <path d="M420 170L610 170L760 320L610 470L420 470L270 320L420 170Z" fill="#F59E0B"/>
+  <path d="M460 220L560 220L660 320L560 420L460 420L360 320L460 220Z" fill="#1F2937" stroke="#FDE68A" stroke-width="12"/>
+  <path d="M508 260L572 320L508 380" stroke="#FDE68A" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M330 220L250 300L340 380" stroke="#FBBF24" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M680 220L760 300L670 380" stroke="#FBBF24" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="260" y="520" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="92" font-weight="700" letter-spacing="8">RONIN</text>
+</svg>

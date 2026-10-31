@@ -1,0 +1,15 @@
+{
+  "name": "ajwagadgets",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Ajwa Mobile & Accessories — 1:1 Pixel-Perfect Recreation",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "capture": "node take_screenshots.js",
+    "test:interactions": "node test_interactions.js"
+  },
+  "devDependencies": {
+    "puppeteer-core": "^25.16.0"
+  }
+}

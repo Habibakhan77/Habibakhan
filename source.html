@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!--
+      This file is the document the app actually ships. vite.config.ts loads
+      only @vitejs/plugin-react and @tailwindcss/vite — there is no TanStack
+      Start plugin — so the build entry is index.html → src/main.tsx →
+      src/App.tsx (react-router). The `head` block in src/routes/__root.tsx
+      never executes, which is why the title, description and LocalBusiness
+      schema it defines were absent from every served page. They live here now.
+    -->
+
+    <title>Ajwa Mobile &amp; Accessories | Mobile Shop in Karkhano Market, Peshawar</title>
+    <meta
+      name="description"
+      content="Mobile phones, wireless earbuds, headphones, chargers, power banks, covers and screen protectors at Ajwa Mobile &amp; Accessories, Awami Market, Karkhano Market, Peshawar. Confirm price and stock on WhatsApp before you visit."
+    />
+    <meta
+      name="keywords"
+      content="mobile accessories Peshawar, Karkhano Market mobile shop, earbuds Peshawar, power bank Peshawar, Ronin Interlink Bluks Plokama"
+    />
+    <meta name="author" content="Ajwa Mobile &amp; Accessories" />
+    <link rel="canonical" href="https://ajwamobile.pk/" />
+
+    <!-- Matches --ink, so the browser chrome blends with the page instead of
+         flashing the old #FFD600 yellow before first paint. -->
+    <meta name="theme-color" content="#151817" />
+    <meta name="color-scheme" content="dark" />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Ajwa Mobile &amp; Accessories" />
+    <meta property="og:locale" content="en_PK" />
+    <meta property="og:locale:alternate" content="ur_PK" />
+    <meta property="og:title" content="Ajwa Mobile &amp; Accessories | Karkhano Market, Peshawar" />
+    <meta
+      property="og:description"
+      content="Mobile phones and accessories in Awami Market, Karkhano Market, Peshawar. Ask about price and availability on WhatsApp."
+    />
+    <meta property="og:image" content="/brand/ajwa-lockup.jpg" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:image" content="/brand/ajwa-lockup.jpg" />
+
+    <link rel="icon" href="/favicon.ico" sizes="any" />
+    <link rel="icon" href="/brand/ajwa-mark.jpg" type="image/jpeg" />
+    <link rel="apple-touch-icon" href="/brand/ajwa-mark.jpg" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Sora:wght@600;700;800&family=Noto+Naskh+Arabic:wght@400;500;600;700&family=Noto+Nastaliq+Urdu:wght@400;600;700&display=swap"
+      rel="stylesheet"
+    />
+
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "MobilePhoneStore",
+        "name": "Ajwa Mobile & Accessories",
+        "alternateName": "عجوہ موبائل اینڈ ایکسیسریز",
+        "description": "Mobile phones, earbuds, headphones, chargers, cables, covers, screen protectors and power banks in Awami Market, Karkhano Market, Peshawar.",
+        "image": "/brand/ajwa-lockup.jpg",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Shop No. 22, Block B, Awami Market, Jamrud Road, Karkhano Market",
+          "addressLocality": "Peshawar",
+          "addressRegion": "Khyber Pakhtunkhwa",
+          "addressCountry": "PK"
+        },
+        "telephone": ["+923082200040", "+923222303626"],
+        "areaServed": "Peshawar",
+        "currenciesAccepted": "PKR",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "6"
+        }
+      }
+    </script>
+    <script type="module" crossorigin src="/assets/index-BsALkSkO.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-DS5FPGPs.css">
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
